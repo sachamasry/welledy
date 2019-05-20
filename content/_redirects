@@ -1,0 +1,5 @@
+# Redirect default Netlify subdomain to primary domain
+https://thirsty-bose-3cb3c3.netlify.com/* https://www.welledy.com/:splat 301!
+
+# Redirect /webmail requests to A2 Hosting webmail address
+/webmail	https://az1-ss19.a2hosting.com:2096/
