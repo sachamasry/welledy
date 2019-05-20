@@ -2,6 +2,7 @@
 title: 'Health. Wellness. Healing.'
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
+backgroundOverlay: "rgba(255,255,255,0.8)"
 button: ""
 buttonLink: ""
 ---
