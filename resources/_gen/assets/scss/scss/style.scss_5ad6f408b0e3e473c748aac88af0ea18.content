@@ -5574,7 +5574,6 @@ ol {
   @media (min-width: 576px) {
     .logo {
       display: block;
-      width: 120px;
       width: 10rem;
       margin-top: 3.3rem; } }
   .logo img {
@@ -5735,6 +5734,10 @@ ul.social {
       display: block; }
       ul.social li a span {
         font-size: 24px; }
+
+.footer ul li a {
+  font-weight: 900;
+  height: unset; }
 
 .hamburger {
   padding: 10px 0 10px 10px;

@@ -2,7 +2,6 @@
   display: none;
   @include media-breakpoint-up(sm) {
     display: block;
-    width: 120px;
     width: 10rem;
     margin-top: 3.3rem;
   }

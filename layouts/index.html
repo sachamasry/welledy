@@ -29,7 +29,9 @@
       <div class="col-12 col-md-6 offset-md-6">
         <h2 class="text-primary text-capitalize">{{ .Title }}</h2>
         <p>{{ .Content }}</p>
+        {{ if and (.Params.button) (.Params.buttonLink) }}
         <a class="button" href="{{ .Params.buttonLink | relURL }}">{{ .Params.button }}</a>
+        {{ end }}
       </div>
     </div>
   </div>
