@@ -1,9 +1,11 @@
 ---
-title: 'We Help Business Grow'
+title: 'Health. Wellness. Healing.'
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
-button: 'Our Work'
-buttonLink: 'work'
+button: 'Join waiting list'
+buttonLink: 'join-waiting-list'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+Welledy empowers you to take care of your health in a holistic way. Wellness at your fingertips through evidence based knowledge curated by top health and wellness professionals. Your Health, Your Way.
+
+Be one of the first to know when we launch and get special perks, free previews, and lots of health and wellness tips from renowned professionals in the meantime.
