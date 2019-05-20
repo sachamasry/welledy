@@ -5575,8 +5575,8 @@ ol {
     .logo {
       display: block;
       width: 120px;
-      width: 96px;
-      margin-top: 2rem; } }
+      width: 10rem;
+      margin-top: 3.3rem; } }
   .logo img {
     width: 100%;
     height: auto; }
